@@ -165,7 +165,7 @@ public class Variables {
         serverTitle = Files.getServerTitle();
         serverMotd = Files.getServerMotd();
 
-        jda = new JDAThread("NzYxOTQ4ODYxNDMzNTExOTQ2.X3iCLA.r8YMOmjlnX5m9lDfvJHXuot1C8A").getJDA();
+        jda = new JDAThread("").getJDA();
         jda.getPresence().setActivity(Activity.playing("시즈니스 온라인"));
 
         vanishPlayers = new ArrayList<Player>();
