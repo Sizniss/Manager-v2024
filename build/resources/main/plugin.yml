@@ -1,0 +1,58 @@
+name: Manager
+version: '1.0.0'
+main: kr.sizniss.manager.Manager
+description: Minecraft Sizniss server management plugin
+commands:
+  test:
+  convertdefault:
+  converthuman:
+  convertzombie:
+  converthost:
+  converthero:
+  convertcarrier:
+  acquiredsupply:
+  rewardwin:
+  rewardlose:
+  rewardkill:
+  rewardcure:
+  rewarddeath:
+  escapepenalty:
+  minelist:
+  unban:
+  kickall:
+  tpall:
+  gm:
+  spawn:
+  heal:
+  maxhealth:
+  health:
+  chatop:
+  vanish:
+    aliases: [ev]
+  donation:
+  var:
+  broadcastrecordlog:
+  whisper:
+    aliases: [w, m, 귓속말, 귓]
+  class:
+    aliases: [병과]
+  type:
+    aliases: [타입]
+  game:
+    aliases: [게임]
+  shop:
+    aliases: [상점]
+  box:
+    aliases: [상자]
+  equipment:
+    aliases: [장비]
+  profile:
+    aliases: [프로필]
+  codi:
+    aliases: [코디]
+  link:
+    aliases: [링크, 사이트, 카페, 디스코드, 카카오톡, 마인리스트, 후원]
+  rule:
+    aliases: [규칙]
+  tutorial:
+    aliases: [튜토리얼]
